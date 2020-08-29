@@ -5,13 +5,10 @@ Clover EFI for MSI B85M-E45 i5-4590
 
 
 
-
 Clover版本：4961
 
 
 显卡使用Web Driver驱动
-
-
 
 
 
@@ -30,4 +27,4 @@ CPU：QuadCore Intel Core i5-4590, 3700 MHz (37 x 100)
 
 
 
-项目主要用于学习与实验Clover。如被用在其他地方与本人无关
+项目主要用于学习与实验Clover。如被用在其他地方与本人无关。
